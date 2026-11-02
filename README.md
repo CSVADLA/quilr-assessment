@@ -1,7 +1,7 @@
 # Quilr AI — Field Developer / Solutions Engineer Assessment
 
 Python implementations of the four assessment tasks, built and tested locally
-with mock providers — no LLM API or cloud cost.
+with mock providers no LLM API or cloud cost.
 
 ## Tasks
 
